@@ -1,0 +1,32 @@
+_repo: History-for-ready-reference-Volumes-1-to-5_70427
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larned, J. N. (Josephus Nelson)
+    alias: Larned, Josephus Nelson
+    birthdate: 1836
+    deathdate: 1913
+    gutenberg_agent_id: '53280'
+    url: http://www.gutenberg.org/2009/agents/53280
+    wikipedia: https://en.wikipedia.org/wiki/Josephus_Nelson_Larned
+description: "\"History for ready reference\" at Project Gutenberg:\r\nVolume 1 -\
+  \ #65306\r\nVolume 2 - #66861\r\nVolume 3 - #68302\r\nVolume 4 - #69262\r\nVolume\
+  \ 5 and supplement - #70343\r\nText-only collection of all the above volumes - #70427"
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70427'
+language: en
+pgterms:marc905: 20201109114902larned
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Don Kostuch
+publication_note: '  $aUnited States :$bC. A. Nichols Co., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Dictionaries'
+- !lcc 'D'
+- GITenberg
+title: History for ready reference, Volumes 1 to 5
+url: http://www.gutenberg.org/ebooks/70427
