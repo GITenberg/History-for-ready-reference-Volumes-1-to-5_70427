@@ -1,5 +1,8 @@
 _repo: History-for-ready-reference-Volumes-1-to-5_70427
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Larned, J. N. (Josephus Nelson)
@@ -12,6 +15,8 @@ creator:
 description: "\"History for ready reference\" at Project Gutenberg:\r\nVolume 1 -\
   \ #65306\r\nVolume 2 - #66861\r\nVolume 3 - #68302\r\nVolume 4 - #69262\r\nVolume\
   \ 5 and supplement - #70343\r\nText-only collection of all the above volumes - #70427"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70427#History-for-ready-reference-Volumes-1-to-5
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70427'
